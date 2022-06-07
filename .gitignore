@@ -1,0 +1,7 @@
+__pycache__/
+
+input/
+wav_input/
+vosk_models/
+output/
+
